@@ -2,3 +2,4 @@ Hellow World!
 git push test
 git push test passwd=Token
 git push test passwd=real
+git push test passwd=retry real
